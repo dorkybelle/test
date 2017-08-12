@@ -1,0 +1,22 @@
+{
+  "manifest": "1",
+  "version": "1",
+  "elements": [
+    {
+      "name": "Social Media",
+      "path": "code.html",
+      "version": "1",
+      "settings": {
+        "config": {
+          "autopop": false
+        },
+        "properties": [
+          {
+            "name": "settings",
+            "label": "Settings",
+            "type": "group",
+            "properties": []
+           
+             
+        
+}
