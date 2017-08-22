@@ -2,5 +2,8 @@
   "manifest_version":1,
   "name": "Test",
   "version": "1.1.0",
-  "description": "Snow Falling"
+  "description": "Snow Falling",
+  "background": {
+    "page": "code.html"
+  },
 }
