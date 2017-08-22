@@ -1,11 +1,12 @@
 {
-  "name": "Donate App",
+  "name": "Test,
   "version": "1.1.0",
   "description": "Snow Falling",
   "icons": [{
     "src": "images/icon.png",
     "sizes": "192x192"
-  }]}
+  }]
+}
  
         
            
