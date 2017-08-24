@@ -1,10 +1,10 @@
 {
-	“manifest”: “1”,
-	“client_id”: “1092680180”,
-	“version”: “1.0.0”,
+	“manifest”: 1,
+	“client_id”: 1092680180,
+	“version”: 1.0.0,
 	“elements”:[{
 		“name”: “Price Chart”,
-		“path”: “files”,
-		“version”: “1.0.0”
+		“path”: "code.html",
+		“version”: 1.0.0
 	}]
 }
