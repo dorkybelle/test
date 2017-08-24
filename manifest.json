@@ -1,9 +1,10 @@
 {
-  "manifest_version":1,
-  "name": "Test",
-  "version": "1.1.0",
-  "description": "Snow Falling",
-  "background": {
-    "page": "code.html"
-  },
+	“manifest”: “1”,
+	“client_id”: “1092680180”,
+	“version”: “1.0.0”,
+	“elements”:[{
+		“name”: “Price Chart”,
+		“path”: “files”,
+		“version”: “1.0.0”
+	}]
 }
